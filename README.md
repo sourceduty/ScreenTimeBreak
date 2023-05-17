@@ -13,4 +13,4 @@ Press the RIGHT button for 2 seconds to start the timer. Press the LEFT button t
 
 This software is free and open-source; anyone can redistribute it and/or modify it.
 
-https://www.hackster.io/alexaldridge/screen-time-break-for-arduino-uno-cfb4fa?f=1#_=_
+https://www.hackster.io/alexaldridge/screen-time-break-for-arduino-uno-cfb4fa?f=1#_=
